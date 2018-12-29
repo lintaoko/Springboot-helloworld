@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 //@EnableAutoConfiguration
-//@ComponentScan("App.Controller")
+//@ComponentScan("App.App.Controller")
 //1.@EnableAutoConfiguration 自动配置 扫包范围默认当前类。
 //2.加上扫包范围
 @SpringBootApplication
