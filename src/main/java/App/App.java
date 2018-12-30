@@ -17,6 +17,8 @@ public class App {
 //        @SpringBootApplication
             // @en..  +@co..  同级包和当前包
             SpringApplication.run(App.class,args);
+
         }
+
 
 }
